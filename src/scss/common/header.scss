@@ -1,0 +1,11 @@
+#header {
+    background-color: tomato;
+    padding: 24px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    .logo {
+        width: 100px;
+    }
+}

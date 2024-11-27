@@ -1,0 +1,16 @@
+{
+  "name": "logovo-basic",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "cross-env": "^7.0.3",
+    "sass": "1.64.1",
+    "vite": "^4.2.1",
+    "vite-plugin-live-reload": "^3.0.2"
+  }
+}
